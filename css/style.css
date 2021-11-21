@@ -32,8 +32,8 @@ li {
   /* margin-left: 42%; */
   /* margin-top: 22%; */
   -webkit-transform-style: preserve-3d;
-  -webkit-transform: rotateX(13deg);
-  -webkit-animation: move 5s linear infinite;
+  -webkit-transform: rotateX(10deg);
+  -webkit-animation: move 15s linear infinite;
 }
 .minbox {
   width: 100px;
